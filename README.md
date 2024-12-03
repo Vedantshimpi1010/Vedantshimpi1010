@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vedantshimpi1010
 - 👀 I’m interested in ...learning new webtechonolgies
 - 🌱 I’m currently learning ...DSA with C++
-- 💞️ I’m looking to collaborate on .. DSA project.
 - 📫 How to reach me ...vshimpi.2823vs@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
